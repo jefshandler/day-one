@@ -11,4 +11,4 @@ Eu estou estudando {backend, frontend and mobile} developer and technical instru
 - [Courses](em construção) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](em Construção) ✍🏼 - I'm write about many things.
 - [Website](under Developer) 💻 - Working on it.
-- [ ] this start Nodejs and Vue JS
+- [ ] - This start Nodejs and Vue JS
